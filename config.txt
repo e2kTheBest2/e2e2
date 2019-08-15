@@ -1,0 +1,6 @@
+owner=428568185277775872
+prefix=^
+game=^play | Web Soon 
+stayinchannel=true
+songinstatus=false
+token=NTk1NzIyMzYxNTU1MjU1MzEx.XRvH3Q.4w83PMvyBKFNLjOCXetnRAqZYNI
